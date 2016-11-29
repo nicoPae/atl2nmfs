@@ -1,5 +1,0 @@
-E:\löschen\MasterarbeitWorkspace\ATL2NMFSynchronizations\resources\HelloWorldCode\bin\program.exe
-E:\löschen\MasterarbeitWorkspace\ATL2NMFSynchronizations\resources\HelloWorldCode\bin\program.pdb
-E:\löschen\MasterarbeitWorkspace\ATL2NMFSynchronizations\resources\HelloWorldCode\obj\Debug\program.csprojResolveAssemblyReference.cache
-E:\löschen\MasterarbeitWorkspace\ATL2NMFSynchronizations\resources\HelloWorldCode\obj\Debug\program.exe
-E:\löschen\MasterarbeitWorkspace\ATL2NMFSynchronizations\resources\HelloWorldCode\obj\Debug\program.pdb
